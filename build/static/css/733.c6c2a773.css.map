@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/733.c6c2a773.css","mappings":"AAKA,+FACE,YACF,C","sources":["plugins/whiteboard/Whiteboard.css"],"sourcesContent":["/* Hide undo and redo buttons */\n.c-bUEyht-jvfJsl-side-right > button:nth-child(1) {\n  display: none;\n}\n\n.c-bUEyht-jvfJsl-side-right > button:nth-child(2) {\n  display: none;\n}\n"],"names":[],"sourceRoot":""}
